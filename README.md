@@ -6,8 +6,8 @@ Hi there! I'm passionate about **data science and backend development**, but I a
 
 ## 🔥 Projects I'm Working On
 
-### 🏃 Marathon Data Analysis
-- Used **Python, Pandas, Matplotlib, and Seaborn** to analyse my marathon performance.
+### 🏃 Marathon Training Data Analysis
+- Used **Python, Pandas, Matplotlib, and Seaborn** to analyse my past marathon training performance.
 - Explored trends, pace consistency, and visualised improvements over time.
 - Gained insights into training effectiveness through data-driven decisions.
 
