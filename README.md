@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm a passionate data analyst and developer who enjoys working with Python, JavaScript, and web technologies. My projects focus on data analysis, web development, and automation. I love extracting insights from data and building tools that enhance productivity and decision-making.
+Hi there! I'm passionate about **data science and backend development**, but I also have experience in front-end development through building my **own personal website**. Originally, I started as an **embedded engineer**, enjoying working with hardware and low-level software. However, over time, I have taken a deep interest in and discovered my passion for **software engineering**.
 
 ## 🔥 Projects I'm Working On
 
@@ -22,9 +22,10 @@ Hi there! I'm a passionate data analyst and developer who enjoys working with Py
 - Sends **automated email reports** on trending videos using date/time-stamped insights.
 
 ## 🚀 Skills & Tech Stack
-- **Programming:** Python, JavaScript, SQL
+- **Programming:** Python, JavaScript, SQL, C/C++
 - **Libraries & Frameworks:** Pandas, Matplotlib, Seaborn, Flask
 - **Databases:** SQLite, PostgreSQL
+- **Embedded & Low-Level:** Microcontrollers, IoT, Real-Time Systems
 - **Automation & APIs:** YouTube API, GitHub Actions
 
 ## 📫 Let's Connect!
@@ -35,4 +36,3 @@ Feel free to check out my repositories, collaborate on projects, or connect with
 - 💼 LinkedIn: [Your Profile](#)
 
 Thanks for stopping by! 🚀
-
