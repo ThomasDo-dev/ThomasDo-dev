@@ -16,7 +16,7 @@ Hi there! I'm passionate about **data science and backend development**, but I a
 - Backend built with **Python Flask** to store and manage a database of blog posts.
 - Features a dynamic blog, project showcase, and interactive UI.
 
-### 📊 YouTube Channel Tracker
+### 📊 YouTube Channel Tracker (WIP)
 - Built a system to track **viral videos** using the **YouTube API**.
 - Stores data in **SQLite** and automates analysis using **GitHub Actions**.
 - Sends **automated email reports** on trending videos using date/time-stamped insights.
