@@ -30,7 +30,7 @@ Hi there! I'm passionate about **data science and backend development**, but I a
 
 ## 📫 Let's Connect!
 Feel free to check out my repositories, collaborate on projects, or connect with me:
-- 🌍 [My Personal Website](https://www.thomasdo.io) (Coming Soon!)
+- 🌍 [My Personal Website](https://web-portfolio-fs3y.onrender.com) (Coming Soon!)
 - 📺 YouTube: [@thomasdo](https://www.youtube.com/thomasdo)
 - 📸 Instagram: [@chickwwn](https://www.instagram.com/chickwwn)
 - 💼 LinkedIn: [Thomas Do](https://www.linkedin.com/in/thomas-do-b0b9b5169)
