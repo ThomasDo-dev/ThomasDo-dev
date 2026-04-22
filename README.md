@@ -1,9 +1,5 @@
 # Welcome to My GitHub 👋
 
-## About Me
-
-Hi there! I'm passionate about **data science and backend development**, but I also have experience in front-end development through building my **own personal website**. Originally, I started as an **embedded engineer**, enjoying working with hardware and low-level software. However, over time, I have taken a deep interest in and discovered my passion for **software engineering**.
-
 ## 🔥 Projects I'm Working On
 
 ### 🏃 Marathon Training Data Analysis
